@@ -1,0 +1,13 @@
+Questão 1:
+
+A)Uma classe serve para estruturar um conjunto de objetos que possuem características similares, definindo seu comportamento
+através de métodos e atributos. Um objeto é qualquer qualquer coisa que seja estruturada por uma classe, tendo características
+e comportamentos definidos pela classe a qual pertence.
+
+B)Construtores são os métodos de inicialização de uma classe, portanto são utilizados no momento que criamos um objeto, eles 
+permitem inicializar objetos já com valores internos predefinidos.
+
+C)Ao usarmos encapsulamento, temos a capacidade de ocultar detalhes e informações, impedindo interferências externas por parte
+do usuário, a vantagem é justamente manter os indivíduos de cada classe bem definidos e impedir qualquer alteração que possa vir
+a afetar o andamento do programa. Por exemplo, se criassemos uma classe ContaBancaria e usassemos encapsulamento em atributos 
+como o saldo, seria uma forma de impedir que o usuário manipulasse diretamente o atributo saldo de forma mal intencionada. 
